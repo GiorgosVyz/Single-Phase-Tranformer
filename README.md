@@ -1,2 +1,2 @@
 # Single-Phase-Tranformer
-Single-Phase Transformer Analysis | Theory Meets Practice with Simulation &amp; Testing
+Single-Phase Transformer Analysis: Open-Circuit, Short-Circuit, and Rated-Load Testing with Theoretical and Simulation Validation
